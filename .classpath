@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="src" path="eclipse_basic/Fundamentals/src"/>
-	<classpathentry kind="src" path="eclipse_basic/HelloWorld/src"/>
-	<classpathentry kind="src" path="Fundamentals/src"/>
-	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="sources"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt.cocoa.macosx.x86_64"/>
 	<classpathentry kind="output" path="bin1"/>
 </classpath>
